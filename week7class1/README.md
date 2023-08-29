@@ -1,5 +1,14 @@
 # week7class1
 
+Examples with Vue 3 Composition API with SFC
+Concepts implemented:
+
+1. Components
+2. Props
+3. Custom Events $emit
+
+![Alt text](<Screenshot 2023-08-29 at 11.18.20 am.png>)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
