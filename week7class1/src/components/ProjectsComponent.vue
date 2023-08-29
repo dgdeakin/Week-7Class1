@@ -12,19 +12,12 @@
 
         <button>This is another button</button>
 
-        <button>
-        
-            <slot>
 
-            </slot>
+        <!-- Default SLOT -->
+        <button>  <slot></slot> </button>
 
-           
-        </button>
-
-        <footer>
-     <slot name="footer">
-
-            </slot>
+        <!-- Named SLOT -->
+        <footer> <slot name="footer"> </slot>
         </footer>
         
     </div>

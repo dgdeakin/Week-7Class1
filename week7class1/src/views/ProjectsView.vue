@@ -14,10 +14,12 @@
         
         @increase-size="increaseSize">
 
+        <!-- Default SLOT Value -->
         Button name from Slot
 
+        <!-- Named SlOT value -->
         <template #footer>
-This is new button with Named Slots
+        This is new button with Named Slots
         </template>
 
 
